@@ -1,5 +1,5 @@
 
-![Hi](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi+👋&center=true&size=25&width=700px)
+![Hi](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi+👋&center=true&size=25&width=700px&height=60)
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">

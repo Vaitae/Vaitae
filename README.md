@@ -3,17 +3,22 @@
 <img alt="stats" align="center" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=gotham)"/>
 <img alt="languagues" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=gotham)"/>
 
-<!--
-**Vaitae/Vaitae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my B.Tech in Computer Science. I have a keen interest in Machine Learning and Deep Learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🔭 I’ve worked on
+- Developing machine learning models for practical applications
+- Creating browser extensions leveraging ML and NLP techniques
+- Implementing efficient algorithms.
+
+##🌱 I’m currently learning 
+- Advanced concepts and machine, learning, and deep learning.
+- Applications of python libraries in data science
+
+
+##⚡ Technical Skills
+- Languages: C, Python, Java, SQL, HTML, CSS, Javascript
+- Libraries & Framework: Flask, Pytorch, Scikit-learn, NLTK, REST
+- Tools: Git
+
+

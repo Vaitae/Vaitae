@@ -1,10 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
 
-<img alt="stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=gotham)"/>
-<img alt="top language" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=gotham)"/>
+![Hi](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi+👋&center=true&size=25&width=700px)
 
-I'm currently pursuing my B.Tech in Computer Science. I have a keen interest in Machine Learning and Deep Learning.
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=radical" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaitae&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
+</p>
 
+<p>I'm currently pursuing my B-Tech in Computer Science. I have a keen interest in Machine Learning and Deep Learning.</p>
 
 ## 🔭 I’ve worked on
 - Developing machine learning models for practical applications
@@ -20,5 +28,4 @@ I'm currently pursuing my B.Tech in Computer Science. I have a keen interest in 
 - Languages: C, Python, Java, SQL, HTML, CSS, Javascript
 - Libraries & Framework: Flask, Pytorch, Scikit-learn, NLTK, REST
 - Tools: Git
-
 

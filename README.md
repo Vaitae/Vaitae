@@ -2,7 +2,7 @@
 
 ![Vaitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=radical)
 
 I'm currently pursuing my B.Tech in Computer Science at Presidency University, Bangalore. I have a keen interest in Machine Learning and Deep Learning.
 <!--

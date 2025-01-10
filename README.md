@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/height=60?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
 
 I'm currently pursuing my B.Tech in Computer Science at Presidency University, Bangalore. I have a keen interest in Machine Learning and Deep Learning.
 <!--

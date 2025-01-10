@@ -3,7 +3,6 @@
 <img alt="stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=radical)"/>
 <img alt="languagues" align="right"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=radical)"/>
 
-I'm currently pursuing my B.Tech in Computer Science at Presidency University, Bangalore. I have a keen interest in Machine Learning and Deep Learning.
 <!--
 **Vaitae/Vaitae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

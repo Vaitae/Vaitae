@@ -1,8 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
 
-##[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaitae)](https://github.com/Vaitae/github-readme-stats)
+[![Vaitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaitae)](https://github.com/Vaitae/github-readme-stats)
 
 I'm currently pursuing my B.Tech in Computer Science at Presidency University, Bangalore. I have a keen interest in Machine Learning and Deep Learning.
 <!--

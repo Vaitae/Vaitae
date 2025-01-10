@@ -2,6 +2,8 @@
 
 [![Vaitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaitae)](https://github.com/Vaitae/github-readme-stats)
 
+![Vaitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true)
+
 I'm currently pursuing my B.Tech in Computer Science at Presidency University, Bangalore. I have a keen interest in Machine Learning and Deep Learning.
 <!--
 **Vaitae/Vaitae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

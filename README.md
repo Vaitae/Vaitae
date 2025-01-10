@@ -6,17 +6,17 @@
 I'm currently pursuing my B.Tech in Computer Science. I have a keen interest in Machine Learning and Deep Learning.
 
 
-##🔭 I’ve worked on
+# 🔭 I’ve worked on
 - Developing machine learning models for practical applications
 - Creating browser extensions leveraging ML and NLP techniques
 - Implementing efficient algorithms.
 
-##🌱 I’m currently learning 
+# 🌱 I’m currently learning 
 - Advanced concepts and machine, learning, and deep learning.
 - Applications of python libraries in data science
 
 
-##⚡ Technical Skills
+# ⚡ Technical Skills
 - Languages: C, Python, Java, SQL, HTML, CSS, Javascript
 - Libraries & Framework: Flask, Pytorch, Scikit-learn, NLTK, REST
 - Tools: Git

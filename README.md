@@ -26,5 +26,5 @@
 ## ⚡ Technical Skills
 - Languages: C, Python, Java, SQL, HTML, CSS, Javascript
 - Libraries & Framework: Flask, Pytorch, Scikit-learn, NLTK, REST
-- Tools: Git
+- Tools: Git, VSCode, Ecllipse
 

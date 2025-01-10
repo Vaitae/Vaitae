@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
 
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=gotham)"/>
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=gotham)"/>

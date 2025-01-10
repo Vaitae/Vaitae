@@ -1,5 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
+
+I'm currently pursuing my B.Tech in Computer Science at Presidency University, Bangalore. I have a keen interest in Machine Learning and Deep Learning.
 <!--
 **Vaitae/Vaitae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

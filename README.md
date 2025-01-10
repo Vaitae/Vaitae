@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=gotham)"/>
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=gotham)"/>
+<img alt="stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=gotham)"/>
+<img alt="top language" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=gotham)"/>
 
 I'm currently pursuing my B.Tech in Computer Science. I have a keen interest in Machine Learning and Deep Learning.
 

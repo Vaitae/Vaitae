@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi)](https://git.io/typing-svg)
+
 <img alt="stats" align="center" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=radical)"/>
 <img alt="languagues" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaitae&layout=compact&theme=radical)"/>
 

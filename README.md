@@ -15,7 +15,6 @@
 
 ## 🔭 I’ve worked on
 - Developing machine learning models for practical applications
-- Creating browser extensions leveraging ML and NLP techniques
 - Implementing efficient algorithms.
 
 ## 🌱 I’m currently learning 

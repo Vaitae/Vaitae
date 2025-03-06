@@ -1,12 +1,12 @@
 ![Hi](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi+👋&center=true&size=30&width=1000px&height=65)
 
 <p align="center">
-<a href="https://github.com/Vaitae/github-readme-stats">
+<a href="https://github.com/Vaitae/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=radical" />
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Vaitae/convoychat">
+<a href="https://github.com/Vaitae/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaitae&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 </p>

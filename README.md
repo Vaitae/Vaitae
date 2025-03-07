@@ -18,8 +18,8 @@
 - Implementing efficient algorithms.
 
 ## 🌱 I’m currently learning 
-- Advanced concepts and machine, learning, and deep learning.
-- Applications of python libraries in data science
+- Advanced concepts and machine learning, and deep learning.
+- Applications of python libraries in data science.
 
 
 ## ⚡ Technical Skills

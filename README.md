@@ -1,4 +1,4 @@
-![Hi](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi+⋆˚࿔&center=true&size=30&width=1000px&height=65)
+![Hi](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vaishnavi+⋆˚࿔+&center=true&size=30&width=1000px&height=65)
 
 <p align="center">
 <a href="https://github.com/Vaitae/">

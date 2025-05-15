@@ -11,18 +11,18 @@
 </a>
 </p>
 
-<p>I'm currently pursuing my B-Tech in Computer Science. I have a keen interest in Web Development, Machine Learning and Deep Learning.</p>
+<p>I'm currently pursuing my B.Tech in Computer Science. I have a keen interest in Web Development, Machine Learning and Deep Learning.</p>
 
 ## 🔭 I’ve worked on
 - Developing Machine learning models for practical applications.
 - Implementing efficient algorithms.
 
 ## 🌱 I’m currently learning 
-- Advanced concepts and Machine learning.
-- Applications of python libraries in Data Science.
+- Advanced concepts of Machine learning.
+- Applications of Python libraries in Data Science.
 
 ## ⚡ Technical Skills
-- Languages: C, Python, Java, SQL, HTML, CSS, Sass, Javascript
+- Languages: C, Python, Java, SQL, HTML, CSS, Sass, JavaScript
 - Libraries & Framework: Bootstrap, Tailwind css, Pandas, NumPY
-- Tools: Git, GitHub, VSCode, Ecllipse, Pycharm, Codeblocks
+- Tools: Git, GitHub, VSCode, Eclipse, Pycharm, Codeblocks
 

@@ -23,6 +23,6 @@
 
 ## ⚡ Technical Skills
 - Languages: C, Python, Java, SQL, HTML, CSS, Sass, JavaScript
-- Libraries & Framework: Bootstrap, Tailwind css, Pandas, NumPY
+- Libraries & Framework: Bootstrap, Tailwind css, React, Pandas, NumPy, Matplotlib
 - Tools: Git, GitHub, VSCode, Eclipse, Pycharm, Codeblocks
 

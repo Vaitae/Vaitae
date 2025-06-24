@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Vaitae/">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaitae&layout=compact&theme=tokyonight&langs_count=6&card_width=320" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaitae&layout=compact&theme=tokyonight&langs_count=6&card_width=320" />
 </a>
 </p>
 

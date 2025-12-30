@@ -2,12 +2,12 @@
 
 <p align="center">
 <a href="https://github.com/Vaitae/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaitae&show_icons=true&theme=tokyonight" alt="Stats"/>
 </a>
 </p>
 <p align="center">
 <a href="https://github.com/Vaitae/">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaitae&layout=compact&theme=tokyonight&langs_count=6&card_width=320" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaitae&layout=compact&theme=tokyonight&langs_count=6&card_width=320" alt="Grade" />
 </a>
 </p>
 
